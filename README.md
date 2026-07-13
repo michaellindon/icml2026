@@ -166,14 +166,12 @@ Running the example produces:
 ## Citation
 
 ```bibtex
-@misc{lindon2026designbased,
-  author = {Michael Lindon and Nathan Kallus},
+@inproceedings{lindon2026designbased,
   title = {Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry},
+  author = {Michael Lindon and Nathan Kallus},
+  booktitle = {Forty-third International Conference on Machine Learning},
   year = {2026},
-  eprint = {2603.25971},
-  archivePrefix = {arXiv},
-  primaryClass = {stat.ME},
-  url = {https://arxiv.org/abs/2603.25971}
+  url = {https://openreview.net/forum?id=FXWnvznHMW}
 }
 ```
 
