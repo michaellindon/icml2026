@@ -6,7 +6,9 @@ sequence methodology from:
 > Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed
 > Outcomes and Staggered Entry.
 
-The arXiv preprint is available at <https://arxiv.org/abs/2603.25971>.
+The paper is available on OpenReview at
+<https://openreview.net/pdf?id=FXWnvznHMW>, and the arXiv preprint is
+available at <https://arxiv.org/abs/2603.25971>.
 
 The implementation is intentionally minimal. It accepts a `pandas.DataFrame`
 with one row per experimental unit and returns a `DataFrame` with one row per
